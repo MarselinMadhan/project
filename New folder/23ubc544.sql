@@ -38,14 +38,7 @@ CREATE TABLE `data` (
 --
 
 INSERT INTO `data` (`name`, `password`, `role`) VALUES
-('user', '12345', 'user'),
-('admin', 'admin44', 'admin'),
-('23ubc544', '29042006', 'user'),
-('admin', 'adminpas', 'user'),
-('123', '01/01/20', 'user'),
-('23ubc544', '01/01/20', 'user'),
-('23ubc544', '12/12/20', 'user'),
-('user99998888', '01/01/20', 'user');
+('user', '12345', 'user');
 
 -- --------------------------------------------------------
 
